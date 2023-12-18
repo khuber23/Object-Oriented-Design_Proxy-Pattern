@@ -1,0 +1,24 @@
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\ObjectvilleDMV.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\ObjectvilleDMV.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\obj\Debug\ProxyPattern.csproj.CopyComplete
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\obj\Debug\ProxyPattern.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\8.3 Proxy\8.3 Proxy LastName\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\ObjectvilleDMV.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.csproj.CopyComplete
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\8.3 Proxy Huber\ProxyPattern\obj\Debug\ProxyPattern.pdb
